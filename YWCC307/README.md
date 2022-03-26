@@ -13,3 +13,4 @@ Additionally, I talk about the 6 steps in Agile methodologies from a project man
 I then shift focus to talk about agile methodolgies from a software developer's perspective. 
 Lastly, I conclude the presentation with a summary on how using Agile methodolgies helps to deliver a better product and how it helps with team productivity
 and the products overall quality.
+
