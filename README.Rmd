@@ -1,3 +1,6 @@
+---
+output: github_document
+---
 # YWCC-307
 This README serves as this repository's cover page.
 
