@@ -14,3 +14,6 @@ I then shift focus to talk about agile methodolgies from a software developer's 
 Lastly, I conclude the presentation with a summary on how using Agile methodolgies helps to deliver a better product and how it helps with team productivity
 and the products overall quality.
 
+The second part of this repository consists of YWCC 307 group project. We are Team 10 and our prompt was: Your team is involved in designing a new cryptocurrency for a sovereign client. You have been asked to evaluate Ethereum as a contender of bitcoin for the basis of your currency. What does your team think and would suggest as your team’s choice to your client?
+
+Here you will find our team's meeting minutes, presentation/product, and research to create the presentation.
